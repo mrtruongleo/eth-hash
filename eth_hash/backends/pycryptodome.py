@@ -2,7 +2,7 @@ from typing import (
     Union,
 )
 
-from Crypto.Hash import (
+from Cryptodome.Hash import (
     keccak,
 )
 
